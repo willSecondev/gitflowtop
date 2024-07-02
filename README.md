@@ -1,3 +1,3 @@
 # gitflowtop
 
-Altered make direct in github
+Altered make direct in github (2).
